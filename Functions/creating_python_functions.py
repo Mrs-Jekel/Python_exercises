@@ -17,7 +17,6 @@ auth('kristine@hudgens.com', 'asdf')     # this is where you are calling the fun
 
 #-------------------------------------------------------------------
 #-------------------------------------------------------------------
-From Benjamin Nicklaus to Everyone:  02:01 PM
 
 #No Arguments 
 def hundred():                    # hundered takes no arguements here

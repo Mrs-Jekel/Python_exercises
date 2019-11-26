@@ -8,7 +8,8 @@ def dynamic_reducer(collection, op):   #<---function called dymanic reducer and 
         "*": operator.mul,       # then multiply 
         "/": operator.truediv,   # then divide
     }
-    #below-now to use the reduce library say return and call the reduce function-it takes in 2 functions(fist is lambda it has a total and an element)
+    #below-now to use the reduce library say return and call the reduce function-it takes in 2 functions(first is 
+    # lambda it has a total and an element)
     #then say operators use look up syntax and call op(second argument), now expects the second argument collection
     return reduce((lambda total, element: operators[op](total, element)), collection)
 
