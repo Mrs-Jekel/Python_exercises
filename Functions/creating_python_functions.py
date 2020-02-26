@@ -32,4 +32,4 @@ def counter(max_value):           # counter takes in one argument max value-dyna
     print(num)
 
 
-counter(501)
+counter(101)

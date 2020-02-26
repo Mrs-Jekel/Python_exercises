@@ -6,7 +6,7 @@ def heading_generator(title, heading_type):                 # create the functio
 print(heading_generator('Greetings!', '1'))                 # then print out the heading generator with Greetings and 1 (h1 tag)
 print(heading_generator('I am in a title', '3'))            # then print out the heading generator with I am in a title and 3 (h3 tag)
 ///////////////////////////////////////////////////////
-From Benjamin Nicklaus to Everyone:  04:26 PM
+
 import numpy as np               # import numpy library
 
 def weighted_lottery(weights):   # create a function weighted lottery and takes in weights
